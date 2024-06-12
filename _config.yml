@@ -14,7 +14,7 @@ name                     : &name "Xiaoyi ZHAO"
 description              : &description "A life-long learner"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "XiaoyiZhao1212/XiaoyiZhao1212.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoyi ZHAO"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a junior researcher specializing in coastal modeling of morphological changes due to storms and sea level rise. Additionally, I am deeply interested in fundamental research that enhances and transforms our understanding of ocean physics."
   location         : "Narragansett, Rhode Island, US"
   employer         : "University of Rhode Island"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "XiaoyiZhao1212"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : ""# Username
+  linkedin         : "linkedin.com/in/xiaoyi-zhao-773470a4"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
